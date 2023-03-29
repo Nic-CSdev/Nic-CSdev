@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Nic-CSdev ✌️
+## Meu nome é Nicolas e seja bem-vindo(a) ao meu perfil ✌️
 
  <div>
    <a href="https://github.com/Nic-CSdev">
