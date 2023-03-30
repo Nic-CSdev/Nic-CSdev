@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/Nic-CSdev">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nic-CSdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nic-CSdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nic-CSdev&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
