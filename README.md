@@ -1,4 +1,5 @@
-
+<div align="center">
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nic.cs_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nicolascoelhosp@hotmail.com) 
 
@@ -10,5 +11,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
