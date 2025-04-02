@@ -9,6 +9,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+![snake gif](https://github.com/Nic-CSdev/Nic-CSdev/blob/output/github-snake-dark.svg)
+
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
